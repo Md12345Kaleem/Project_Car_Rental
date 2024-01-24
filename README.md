@@ -1,1 +1,1 @@
-Java Project
+Case Study Java Project
